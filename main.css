@@ -6,7 +6,7 @@
 
 .outerb {
 
-/*     height: 30cm; */
+    /* height: 30cm; */
     width: 21cm;
     display: inline-block;
     margin-top:5px;
@@ -71,7 +71,7 @@
 .GitHub {
     display: inline-block;
     margin: 0px 0px 4px 15px;
-    line-height: 32px;
+    line-height: 34px;
 
 }
 .mail,
@@ -124,7 +124,7 @@
     margin-bottom: 3px;
     text-align: justify;
     padding-right: 10px;
-    line-height: 25.5px;
+    line-height: 26px;
     list-style:square;
     
 }
